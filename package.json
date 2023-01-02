@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "沙漠廢墟",
+        "title": "Slime",
         "width": 816,
         "height": 624,
         "position": "center",
